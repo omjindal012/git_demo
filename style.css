@@ -24,3 +24,7 @@ h1{
 h3{
   color : "green";
 }
+
+div{
+  border: 2px solid black;
+}
